@@ -3,7 +3,7 @@
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
  ## Project working title ##
- *Insert a name for the project as you conceive of it at the moment.*
+ 
  ## Night light ##
 
 
@@ -63,8 +63,7 @@ This project is related to mine because it is all about light and making a lamp 
  https://create.arduino.cc/projecthub/remnis/the-glowing-heart-e031c0?ref=tag&ref_id=led&offset=8
 
  ![Image](Glowing heart.jpg)
-
- This project is related to mine because *insert reasons here*.
+ 
  This project is related to mine because it could be used as a bed side table lamp. This is my whole design intent and this project would fit into one of my design concept as it is physically and interactively something that I would like my final project to include. Again it has different coloured LED's which my project will have as well.
 
 
