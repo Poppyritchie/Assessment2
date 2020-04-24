@@ -36,7 +36,7 @@ This project is related to mine because it is all about light and making a lamp 
  https://www.youtube.com/watch?v=UQSZQZIuIk4
 
  ![Image](Interactive clouds.jpg)
-
+ 
  This project is related to mine because at the beginning this was one of my biggest inspirations and i wanted to create something similar. I couldn't copy a project that already exsits though so it just gave me an idea of what my design intent will be and the area that I'm interested in. I was going to include sound in my final project too but it is way out of my depth to create. It is a much larger project than what I'm creating but it still involves LED light which relates to my project.
 
  ### Related project 4 ###
