@@ -16,7 +16,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
  https://www.youtube.com/watch?v=CfVTQ6jrqg0
 
-![Image](Breath of light.jpg)
+![Image](Breathoflight.jpg)
 
 This project is related to mine because it involves lights and the aesthetic is beautiful which inspires me to create a final project that is also beautiful to look at. The lights turn on depending on the sensor which is kind of similar to mine where the lights depend on a particular variable.
 
@@ -25,7 +25,7 @@ This project is related to mine because it involves lights and the aesthetic is 
 
  http://www.designgallerist.com/blog/interactive-lamp-contemporary-design-kolo/
 
-![Image](Interactive lamp.jpg)
+![Image](Interactivelamp.jpg)
 
 This project is related to mine because it is all about light and making a lamp more than just a basic on and off switch. This is similar to my project as I have the same idea in mind, making a lamp interactive and pretty. Although technically it isn't related to my project with very different techniques and materials used. It's still dependent on touch and requires touch for it to change light and make movement, my project is also dependent on touch.
 
@@ -35,7 +35,7 @@ This project is related to mine because it is all about light and making a lamp 
 
  https://www.youtube.com/watch?v=UQSZQZIuIk4
 
- ![Image](Interactive clouds.jpg)
+ ![Image](Interactiveclouds.jpg)
  
  This project is related to mine because at the beginning this was one of my biggest inspirations and i wanted to create something similar. I couldn't copy a project that already exsits though so it just gave me an idea of what my design intent will be and the area that I'm interested in. I was going to include sound in my final project too but it is way out of my depth to create. It is a much larger project than what I'm creating but it still involves LED light which relates to my project.
 
@@ -44,7 +44,7 @@ This project is related to mine because it is all about light and making a lamp 
 
  https://design-milk.com/slap-cheeky-interactive-lights-joseph-begley/
 
- ![Image](Slap it.jpg)
+ ![Image](Slapit.jpg)
 
  This project is related to mine because again it includes LED lights and also requires touch to set off. The different coloured LED's is also related to mine as I would like to include different colours depending on touch or movement. I think this project is fun and looks enjoyable, I would like to include the same aspects in my final project. 
 
@@ -62,7 +62,7 @@ This project is related to mine because it is all about light and making a lamp 
  *Insert URL to project*
  https://create.arduino.cc/projecthub/remnis/the-glowing-heart-e031c0?ref=tag&ref_id=led&offset=8
 
- ![Image](Glowing heart.jpg)
+ ![Image](Glowingheart.jpg)
  
  This project is related to mine because it could be used as a bed side table lamp. This is my whole design intent and this project would fit into one of my design concept as it is physically and interactively something that I would like my final project to include. Again it has different coloured LED's which my project will have as well.
 
@@ -101,9 +101,9 @@ I have 3 different concepts that all have a similar function. The first concept 
  - String 
  - Wood/ wood pole
 
- ![Image](design concept.HEIC)
+ ![Image](designconcept.jpg)
 
- ![Image](flowchart.HEIC)
+ ![Image](flowchart.jpg)
 
 ### Design concept 2 ###
 Crater lamp
@@ -115,7 +115,7 @@ The crater lamp is also suitable for a side table that reflects a beautiful patt
  - LED 
  - Mircobit 
 
- ![Image](Crater light.HEIC)
+ ![Image](Craterlight.jpg)
 
 
  ### Final design concept ###
@@ -133,11 +133,11 @@ My final design concept is a interactive night light that is a cube shape. It ha
 
  ### Interaction flowchart ###
 
- ![Image](final flowchart.HEIC)
+ ![Image](finalflowchart.jpg)
 
  ## Physical experimentation documentation ##
 
- ![Image](sketch.HEIC)
+ ![Image](sketch.jpg)
 
  This is a rough sketch of the night light. 
 
@@ -145,9 +145,9 @@ My final design concept is a interactive night light that is a cube shape. It ha
 
  This is a screenshot of my coding experimentation. Although I haven't got as far as I wanted with the technical side, I played around with coding and the bread board just to experiment what does and doesn't work. I haven't yet figured out the correct coding but with more research and materials for testing I will soon figure it out. This is my compass coding I've been working with and trying to figure out how to make the direction correspond with the LED. It still needs work and more test but it is a good starting point.
 
- ![Image](Breadboard 1.HEIC)
+ ![Image](Breadboard1.jpg)
 
- ![Image](Breadboard 2.HEIC)
+ ![Image](Breadboard2.jpg)
 
  This is the bread board and experimenting with one LED light first. I had to look back on pervious activities to get an idea of how it comes together. Again the technical side needs improvement and more development as I haven't yet figured it out completely.
 
